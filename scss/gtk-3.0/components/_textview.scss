@@ -6,11 +6,11 @@ textview {
   padding: 8px;
 
   text selection {
-    background: green;
+    background: #7ed491;
   }
 
   &:active {
-    background: blue;
+    background: #a3b8ef;
   }
 
   &:focus {

@@ -14,8 +14,8 @@ window.thunar {
   }
 
   .sidebar {
-    background-color: rgba(40, 40, 40, 0.2);
-    box-shadow: inset -20px 20px 15px -25px rgba(0, 0, 0, 0.2);
+    background-color: #30333d;
+    /*box-shadow: inset 0px 0px 0px 0px rgba(0, 0, 0, 1);*/
     padding: 1rem;
   }
 
@@ -27,7 +27,7 @@ window.thunar {
   }
 
   .frame {
-    border: 0;
+    border: 0px;
   }
 
   toolbar {
